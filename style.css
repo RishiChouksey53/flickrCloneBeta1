@@ -160,6 +160,7 @@
 }
 
 .foot-bottom {
+    padding-bottom:10px;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
